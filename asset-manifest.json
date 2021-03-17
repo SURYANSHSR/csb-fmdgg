@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://SURYANSHSR.github.io/csb-fmdgg/static/css/main.ee7b95e1.chunk.css",
+    "main.js": "https://SURYANSHSR.github.io/csb-fmdgg/static/js/main.d372c38f.chunk.js",
+    "main.js.map": "https://SURYANSHSR.github.io/csb-fmdgg/static/js/main.d372c38f.chunk.js.map",
+    "runtime-main.js": "https://SURYANSHSR.github.io/csb-fmdgg/static/js/runtime-main.ccdc37dd.js",
+    "runtime-main.js.map": "https://SURYANSHSR.github.io/csb-fmdgg/static/js/runtime-main.ccdc37dd.js.map",
+    "static/js/2.31dd56b7.chunk.js": "https://SURYANSHSR.github.io/csb-fmdgg/static/js/2.31dd56b7.chunk.js",
+    "static/js/2.31dd56b7.chunk.js.map": "https://SURYANSHSR.github.io/csb-fmdgg/static/js/2.31dd56b7.chunk.js.map",
+    "index.html": "https://SURYANSHSR.github.io/csb-fmdgg/index.html",
+    "static/css/main.ee7b95e1.chunk.css.map": "https://SURYANSHSR.github.io/csb-fmdgg/static/css/main.ee7b95e1.chunk.css.map",
+    "static/js/2.31dd56b7.chunk.js.LICENSE.txt": "https://SURYANSHSR.github.io/csb-fmdgg/static/js/2.31dd56b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccdc37dd.js",
+    "static/js/2.31dd56b7.chunk.js",
+    "static/css/main.ee7b95e1.chunk.css",
+    "static/js/main.d372c38f.chunk.js"
+  ]
+}
